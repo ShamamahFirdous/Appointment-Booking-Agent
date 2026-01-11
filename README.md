@@ -20,6 +20,7 @@ Built with **FastAPI + Vanilla JavaScript**, this project demonstrates end-to-en
 
 ## 🖼️ Application Screenshots
 
+
 ### 💬 Chat Interface
 ![Chat Interface](images/1.png)
 
